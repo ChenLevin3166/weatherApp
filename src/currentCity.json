@@ -1,0 +1,147 @@
+
+[
+    {
+      "city":"Tel-Aviv",
+      "LocalObservationDateTime": "2020-07-09T22:41:00+03:00",
+      "EpochTime": 1594323660,
+      "WeatherText": "Clear",
+      "WeatherIcon": 33,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 26.2,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 79,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
+    },
+    {
+      "city":"Jerusalem",
+      "LocalObservationDateTime": "2020-07-12T00:00:00+03:00",
+      "EpochTime": 1594501200,
+      "WeatherText": "Clear",
+      "WeatherIcon": 33,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 21.4,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 71,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us"
+    },
+    {
+      "city":"Ashdod",
+      "LocalObservationDateTime": "2020-07-12T00:00:00+03:00",
+      "EpochTime": 1594501200,
+      "WeatherText": "Clear",
+      "WeatherIcon": 33,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 25.8,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 78,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/ashdod/215613/current-weather/215613?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/ashdod/215613/current-weather/215613?lang=en-us"
+    },
+    {
+      "city":"Haifa",
+      "LocalObservationDateTime": "2020-07-11T23:56:00+03:00",
+      "EpochTime": 1594500960,
+      "WeatherText": "Mostly clear",
+      "WeatherIcon": 34,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 26.4,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 80,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/haifa/213181/current-weather/213181?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/haifa/213181/current-weather/213181?lang=en-us"
+    },
+    {
+      "city":"Beer-Sheva",
+      "LocalObservationDateTime": "2020-07-12T00:11:00+03:00",
+      "EpochTime": 1594501860,
+      "WeatherText": "Clear",
+      "WeatherIcon": 33,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 22.6,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 73,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/beersheba/2-215752_1_al/current-weather/2-215752_1_al?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/beersheba/2-215752_1_al/current-weather/2-215752_1_al?lang=en-us"
+    },
+    {
+      "city":"Eilat",
+      "LocalObservationDateTime": "2020-07-12T00:15:00+03:00",
+      "EpochTime": 1594502100,
+      "WeatherText": "Clear",
+      "WeatherIcon": 33,
+      "HasPrecipitation": false,
+      "PrecipitationType": null,
+      "IsDayTime": false,
+      "Temperature": {
+        "Metric": {
+          "Value": 32.9,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 91,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "MobileLink": "http://m.accuweather.com/en/il/elat/1-215615_1_al/current-weather/1-215615_1_al?lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/elat/1-215615_1_al/current-weather/1-215615_1_al?lang=en-us"
+    }
+]
